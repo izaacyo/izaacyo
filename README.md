@@ -43,12 +43,12 @@
 
 ## 📊 My Github Stats
   
-<!--  <a href="https://github.com/izaacyo/github-readme-stats"><img alt="Marius's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izaacyo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
-  <p >
+  <a href="https://github.com/izaacyo/github-readme-stats"><img alt="Marius's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izaacyo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+<!--   <p >
     <a href="https://github.com/izaacyo/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marius's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=izaacyo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p> 
+    </a> 
+</p>  --> 
   <a align="left" href="https://github.com/izaacyo/github-readme-stats"><img alt="Marius's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaacyo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
