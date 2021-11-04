@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with **Companies for real-life projects**
 
-- 👨‍💻 All of my projects are available here -> **[Repositories](https://github.com/izaacyo?tab=repositories)**
+- 👨‍💻 My last MERN project SneakersLoop is up -> **[SneakersLoop](https://github.com/izaacyo?tab=repositories)**
 
 - 📫 How to reach me **mariusppetrut@gmail.com**
 
@@ -43,8 +43,8 @@
 
 ## 📊 My Github Stats
   
-  <a href="https://github.com/izaacyo/github-readme-stats"><img alt="Marius's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izaacyo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-<!--   <p >
+<!--  <a href="https://github.com/izaacyo/github-readme-stats"><img alt="Marius's Github Stats" src="https://github-readme-stats.vercel.app/api?username=izaacyo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+   <p >
     <a href="https://github.com/izaacyo/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marius's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=izaacyo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a> 
