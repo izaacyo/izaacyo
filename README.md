@@ -49,7 +49,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marius's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=izaacyo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a> 
 </p>  --> 
-  <a align="left" href="https://github.com/izaacyo/github-readme-stats"><img alt="Marius's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaacyo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izaacyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <!--
