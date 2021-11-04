@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with **Companies for real-life projects**
 
-- 👨‍💻 My last MERN project SneakersLoop is up -> **[SneakersLoop](https://github.com/izaacyo?tab=repositories)**
+- 👨‍💻 My last MERN project SneakersLoop is up -> **[SneakersLoop](https://sneakersloop.herokuapp.com)**
 
 - 📫 How to reach me **mariusppetrut@gmail.com**
 
