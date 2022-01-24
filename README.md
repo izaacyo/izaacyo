@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Vote App](https://github.com/izaacyo/VOTE_APP)**
+- 🔭 I’m currently working on upgrading **[Poljin.fi](https://www.poljin.fi/)**
 
 - 🌱 I’m actively learning **React, Redux, Drupal, AWS, Unit Testing** in **Business College Helsinki**
 
-- 👯 I’m looking to collaborate with **Companies for real-life projects**
+- :office: I am a project intern for **[Druid.fi](https://druid.fi/en/)**
 
 - 👨‍💻 My last MERN project SneakersLoop is up -> **[SneakersLoop](https://sneakersloop.herokuapp.com)**
 
