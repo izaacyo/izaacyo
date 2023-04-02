@@ -5,14 +5,11 @@
 
 
 ## 🙋‍♂️ About Me
+ - :office: I am a software developer for **[Druid.fi](https://druid.fi/en/)**
 
-- 🔭 I’m currently working on upgrading **[Poljin.fi](https://www.poljin.fi/)**
+- 🔭 I’m currently working on building a platform for private events
 
-- 🌱 I’m actively learning **React, Redux, Drupal, AWS, Unit Testing** in **Business College Helsinki**
-
-- :office: I am a project intern for **[Druid.fi](https://druid.fi/en/)**
-
-- 👨‍💻 My last MERN project SneakersLoop is up -> **[SneakersLoop](https://sneakersloop.herokuapp.com)**
+- 👨‍💻 My last MERN project SneakersLoop is up -> **[SpeakUP](https://sneakersloop.herokuapp.com)**
 
 - 📫 How to reach me **mariusppetrut@gmail.com**
 
