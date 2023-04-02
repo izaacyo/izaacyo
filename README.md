@@ -6,6 +6,8 @@
 
 ## 🙋‍♂️ About Me
  - :office: I am a software developer for **[Druid.fi](https://druid.fi/en/)**
+ 
+ - 💻 Checkout out my **[Portofolio](https://mariusppetrutportofolio.netlify.app/)** hosted on Netlify
 
 - 🔭 I’m currently working on building a platform for private events
 
