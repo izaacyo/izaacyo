@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Marius here!</h1>
-<h3 align="center">I'm an aspiring Full Stack Developer student in Helsinki, Finland </h3>
+<h3 align="center">I'm an aspiring Full Stack Developer from Helsinki, Finland, currently living in Berlin </h3>
 
 
 ## 🙋‍♂️ About Me
