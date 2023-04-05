@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on building a platform for private events
 
-- 👨‍💻 My last MERN project SneakersLoop is up -> **[SpeakUP](https://sneakersloop.herokuapp.com)**
+- 👨‍💻 My last MERN project SpeakUP is up -> **[SpeakUP](https://speakupreact.netlify.app/)**
 
 - 📫 How to reach me **mariusppetrut@gmail.com**
 
